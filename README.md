@@ -70,8 +70,13 @@ Ensure you have Python 3.7 or later installed. Install the required dependencies
 pip install -r requirements.txt
 ```
 
-#### Model Weights
-Place the pre-trained model weights file (`model_weights.h5`) in the `backend/model_weights` directory. If you don’t have the weights file, train the model or request it from the repository owner.
+
+## **Model Weights**
+The pretrained model weights are **not included** in the repository due to size limitations. To use this project:
+1. Retrain the weights from the notebook provided.
+
+2. Place the downloaded `model_weights.weights.h5` file in the `backend/model_weights/` directory.
+
 
 #### Run the Backend
 Start the Flask server:
