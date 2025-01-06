@@ -133,8 +133,8 @@ Contributions are welcome! If you’d like to contribute, please fork the reposi
 
 ## Contact
 If you have any questions or issues, please contact:
-- **Name**: [MUhammad Sheraz]
-- **Email**: [sheraz.ds,pucit@gmail.com]
+- **Name**: MUhammad Sheraz
+- **Email**: sheraz.ds.pucit@gmail.com
 - **GitHub**: [Muhammad-Sheraz-ds](https://github.com/Muhammad-Sheraz-ds)
 - **Linked In**: [Muhammad Sheraz](https://www.linkedin.com/in/muhammad-sheraz-5b3887242/)
 
